@@ -1,6 +1,8 @@
 # Quest-Web-API
 
 ## Quest v1 APIs
+* v1/platform/
+    * [Get platform SDK info](../../wiki/Platform)
 * v1/auth/
     * [Authorize and get an access token](../../wiki/Authorization)
 * v1/apps/:app_uuid/beacons
